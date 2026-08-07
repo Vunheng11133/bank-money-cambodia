@@ -1,1 +1,13 @@
-p{ color: #2563eb;}
+body{
+    background:#f5f5f5;
+    font-family:Arial,sans-serif;
+}
+
+h1{
+    color:red;
+}
+
+p{
+    color:blue;
+    font-size:20px;
+}
