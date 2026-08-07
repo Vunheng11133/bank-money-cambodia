@@ -2,12 +2,26 @@
 <html lang="km">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Learn</title>
+<meta name="viewport" conten="width=device-width,initial-scale=1.0">
 <link rel="stylesheet" href="styles.css">
- </head>
+</head>
 <body>
-  <h1>មេរៀនទី 1 html</h1>
-  <p> htmlគឺជាគ្រោងឆ្អឹង</p>
+<h1>ចំណេះដឹងគឺជាអំណាច</h1>
+<h2>ចំណេះដឹងគឺជាអំណាច</h2>
+<h3>ចំណេះដឹងគឺជាអំណាច</h3>
+<h4>ចំណេះដឹងគឺជាអំណាច</h4>
+<h5>ចំណេះដឹងគឺជាអំណាច</h5>
+<h6>ចំណេះដឹងគឺជាអំណាច</h6>
+<p>ចំណេះដឹងគឺជាអំណាច</p>
+
+<p>ចំណេះ៖ ដឹងគឺជា អំណាច<br>ចំណេះដឹងគឺជាអំណាច</p>
+
+<hr>
+
+<pre>ចំណេះ៖ ដឹងគឺជា អំណាច ចំណេះ៖ ដឹងគឺជា អំណាច</pre>
+
+<blockquote>ចំណេះ៖ ដឹងគឺជា អំណាច ចំណេះ៖ ដឹងគឺជា អំណាច</blockquote>
+
+<q>ចំណេះដឹងគឺជាអំណាចចំណេះដឹងគឺជាអំណាច</q>
   </body>
-</html>
+</html> 
